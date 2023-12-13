@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Repository for the javascript function for masking a given string",
   "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@krishnakodoth"
+  },
   "scripts": {
     "test": "jest"
   },
