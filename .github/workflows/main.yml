@@ -7,7 +7,11 @@ on:
 
 jobs:
   publish-gpr:
+    name: Build image & push
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
