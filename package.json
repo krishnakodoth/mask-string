@@ -1,6 +1,6 @@
 {
   "name": "@krishnakodoth/mask-string",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Repository for the javascript function for masking a given string",
   "main": "index.js",
   
