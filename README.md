@@ -28,11 +28,11 @@ Repository for the javascript function for masking a given string
 - commit and push the changes to GitHub
 - Click on the Action from the GitHub Repository
 
-![Alt text](images\readme_01.PNG?raw=true "GitHub Action")
+![Alt text](https://github.com/krishnakodoth/mask-string/blob/main/images/readme_01.PNG?raw=true "GitHub Action")
 
 - New main.yml file will be created in the GitHub workflow
 
-![Alt text](images\readme_02.PNG?raw=true "GitHub workflow main.ymll")
+![Alt text](https://github.com/krishnakodoth/mask-string/blob/main/images/readme_02.PNG?raw=true "GitHub workflow main.ymll")
 
 - Create your work flow steps
 
@@ -70,8 +70,8 @@ jobs:
 - Save and commit the changes - workflow will triger the job and will get triggered
 - Once the Job is success then the package will be published
 
-![Alt text](images\readme_03.PNG?raw=true "Workflow status")
+![Alt text](https://github.com/krishnakodoth/mask-string/blob/main/images/readme_03.PNG?raw=true "Workflow status")
 
-![Alt text](images\readme_04.PNG?raw=true "Workflow status")
+![Alt text](https://github.com/krishnakodoth/mask-string/blob/main/images/readme_04.PNG?raw=true "Workflow status")
 
-![Alt text](images\readme_05.PNG?raw=true "Workflow status")
+![Alt text](https://github.com/krishnakodoth/mask-string/blob/main/images/readme_05.PNG?raw=true "Workflow status")
